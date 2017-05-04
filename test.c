@@ -14,4 +14,5 @@ int main() {
         printf("\n");
     }
     osm_free_map(map);
+    return 0;
 }
